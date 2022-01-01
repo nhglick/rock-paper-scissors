@@ -7,3 +7,5 @@ The images are from here:
     Paper: https://unsplash.com/photos/4JxV3Gs42Ks
     Rock: https://unsplash.com/photos/QxjEi8Fs9Hg
     
+    
+Live preview: https://nhglick.github.io/rock-paper-scissors/
